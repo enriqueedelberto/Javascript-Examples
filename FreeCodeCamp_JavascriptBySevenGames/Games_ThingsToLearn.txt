@@ -1,0 +1,20 @@
+Memory Game
+Things we are going to cover:
+push
+querySelector
+setAttribute
+getAttribute
+createElement
+appendChild
+Math.random()
+sort
+for loops
+
+Whack-a-Mole
+Things we are going to cover:
+querySelector
+addEventListener()
+setInterval
+classList
+forEach
+Arrow functions
