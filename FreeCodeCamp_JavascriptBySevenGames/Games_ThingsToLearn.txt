@@ -18,3 +18,12 @@ setInterval
 classList
 forEach
 Arrow functions
+
+ConnectFour
+querySelector
+addEventListener()
+onclick
+classList.contains()
+classList.add()
+for Loops
+Arrow functions
