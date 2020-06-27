@@ -39,6 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const winningArrays = [
             [0, 1, 2, 3],
             [20, 10, 20, 30],
+
         ];
 
         for (let y = 0; y < winningArrays.length; y++) {
