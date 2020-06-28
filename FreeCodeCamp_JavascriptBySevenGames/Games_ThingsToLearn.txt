@@ -27,3 +27,15 @@ classList.contains()
 classList.add()
 for Loops
 Arrow functions
+
+Nokia 3310 Snake
+QuerySelector
+addEventListener
+setInterval
+keyCodes
+pop
+unshift()
+push()
+classList.contains
+classList.add()
+classList.remove()
