@@ -39,3 +39,17 @@ push()
 classList.contains
 classList.add()
 classList.remove()
+
+Space invaders.
+QuerySelector
+addEventListener
+Switch cases
+setInterval
+keyCodes
+indexOf
+includes
+classList
+setInterval
+clearInterval
+push
+ 
