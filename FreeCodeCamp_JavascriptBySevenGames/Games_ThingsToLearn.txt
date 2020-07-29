@@ -20,6 +20,7 @@ forEach
 Arrow functions
 
 ConnectFour
+Things we are going to cover:
 querySelector
 addEventListener()
 onclick
@@ -29,6 +30,7 @@ for Loops
 Arrow functions
 
 Nokia 3310 Snake
+Things we are going to cover:
 QuerySelector
 addEventListener
 setInterval
@@ -41,6 +43,7 @@ classList.add()
 classList.remove()
 
 Space invaders.
+Things we are going to cover:
 QuerySelector
 addEventListener
 Switch cases
@@ -52,4 +55,14 @@ classList
 setInterval
 clearInterval
 push
+
+Frogger Game
+ Things we are going to cover:
+querySelector
+addEventListener
+clearInterval
+forEach 
+classList.contains
+classList.add()
+classList.remove()
  
