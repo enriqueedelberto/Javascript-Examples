@@ -65,4 +65,19 @@ forEach
 classList.contains
 classList.add()
 classList.remove()
+
+Tetris game
+Things we are going to cover:
+QuerySelector
+addEventListener
+Array.from()
+Math.floor()
+forEach
+split
+some()
+concat()
+appendChild
+Arrow functions
+
+
  
