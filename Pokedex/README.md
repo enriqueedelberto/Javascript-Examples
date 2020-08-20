@@ -1,12 +1,7 @@
-# Learning javascript by building 7 games
+# How to Build a Pokedex App Using HTML, CSS, and TypeScript
 
 I see the article at  [FreeCodeCamp](https://www.freecodecamp.org/news/a-practical-guide-to-typescript-how-to-build-a-pokedex-app-using-html-css-and-typescript/), where the developer,  Ibrahima Ndaw shows how to create a basic App using HTML, Css and Typescript.
-
-: 
-```typescript
  
-...
-```
 
 In this repository, I try to do what he shows, but I add some elements from my own.
 
