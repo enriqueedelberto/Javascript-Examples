@@ -26,6 +26,10 @@ main>h1 {
     position: relative;
 }
 
+.card:hover {
+    transform: scale(1.05);
+}
+
 .card--id {
     position: absolute;
     background: #cebf7b;
@@ -34,6 +38,7 @@ main>h1 {
 
 .card--image {
     margin: 0 auto;
+    display: block;
 }
 
 .card--name {
